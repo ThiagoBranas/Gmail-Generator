@@ -6,7 +6,7 @@ import dns.resolver
 def generar_correo(dominio="gmail.com"):
     """Genera una dirección de correo electrónico aleatoria con un dominio especificado."""
     nombres = set(["juan", "maria", "pedro", "laura", "carlos", "ana", "jose", "susana", "manuel", "rosa", 
-                   "miguel", "elena", "fernando", "luis", "adriana", "roberto", "alicia", "ramon", "martina", 
+                   "miguel", "Javier", "elena", "fernando", "luis", "adriana", "roberto", "alicia", "ramon", "martina", 
                    "emilio", "clara", "eduardo", "mercedes", "nicolas", "silvia", "juanita", "leonardo", "amparo", 
                    "raul", "cecilia", "hector", "carmen", "jorge", "ines", "ricardo", "elisa", "francisco", 
                    "marina", "oscar", "veronica", "daniel", "isabel", "pablo", "graciela", "marcelo", "juana", 
